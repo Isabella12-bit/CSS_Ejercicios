@@ -1,0 +1,33 @@
+div{
+    width: 200px;
+    height: 250px;
+    background-color: rgb(138, 228, 138);
+}
+
+p{
+    color: rgb(139, 217, 239);
+}
+
+.caja{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(10%, 100%, 50%);
+}
+
+.otra-caja{
+    width: 150px;
+    height: 150px;
+    background-color: rgba(225, 151, 182, 0.5);
+}
+
+.una-caja-mas{
+    width: 150px;
+    height: 150px;
+    background-color: #1200aa;
+}
+
+.capibara{
+    width: 150px;
+    height: 150px;
+    background-color: hsl(0, 100%, 50%);
+}
